@@ -1,0 +1,309 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.background {
+    background-color: rgb(195, 221, 194);
+}
+
+.logo {
+    height: 60px;
+    padding: 2px 10px;
+    border-radius: 30px;
+
+}
+
+.col-lg-6 {
+    padding-top: 7rem;
+    padding-left: 1rem;
+}
+
+
+.explore-button {
+    margin: 20px;
+
+
+}
+
+.signup-button {
+    margin: 20px;
+
+}
+
+.container-btn {
+    text-align: center;
+    margin-top: 70px;
+
+}
+
+.navbar-nav {
+
+    padding: 2px 10px;
+
+}
+
+.navbar-toggler {
+    border: 1px solid white !important;
+
+    padding: 2px 10px !important;
+    background-color: white !important;
+
+}
+
+.hamburger-icon {
+
+    color: green;
+    font-size: 30px;
+
+}
+
+.nav-item {
+    font-size: 18px;
+    font-weight: 700;
+
+}
+
+.text {
+    color: white;
+    opacity: 90%;
+    padding: 35px;
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+
+
+}
+
+.intro {
+    color: white;
+    opacity: 85%;
+    padding: 20px;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.img-fluid {
+    width: 900px;
+
+}
+
+.container-fluid {
+    background: linear-gradient(#01200A, #01450a);
+    ;
+    padding-bottom: 80px;
+    box-shadow: 0px 3px 9px rgb(46, 46, 46);
+
+
+
+
+}
+
+.text-center {
+    color: black;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    top: 145px;
+    text-align: center;
+    padding: 15px;
+
+}
+
+
+
+.navbar {
+    padding: 15px;
+}
+
+#testimonials {
+    padding: 60px 10px;
+    background-color: rgb(125, 141, 130);
+    text-align: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+
+}
+
+.testimonial-image {
+    padding: 20px;
+    width: 20%;
+    border-radius: 35%;
+    margin: 5px;
+    border-color: rgb(62, 62, 62);
+    border-style: solid;
+    border-width: 2px;
+
+    box-shadow: 0px 2px 4px rgb(46, 46, 46);
+}
+
+.container {
+    padding: 3%;
+
+
+
+}
+
+.aboutme {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    line-height: 1.5;
+    font-size: 22px;
+
+
+}
+
+.aboutme1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    line-height: 1.5;
+    font-size: 22px;
+}
+
+#press {
+    background-color: rgb(125,
+            141,
+            130);
+    padding: 1px 1px 60px;
+    ;
+    text-align: center;
+    word-spacing: 100px;
+    box-shadow: 0px 14px 16px -5px rgb(69, 69, 69);
+
+}
+
+.press-image {
+    width: 20%;
+}
+
+
+.collapse ul li::after {
+    content: '';
+    height: 3px;
+    width: 0%;
+    position: absolute;
+    left: 0;
+    bottom: 1px;
+    background: white;
+    transition: 0.5s;
+}
+
+.collapse ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+
+
+}
+
+.collapse ul li:hover::after {
+    width: 100%;
+}
+
+.santos-class {
+    height: 230px;
+
+    text-align: center;
+    background: linear-gradient(#01200A, #01450a);
+    color: white;
+
+
+}
+
+
+
+
+.quotes {
+    font-size: 23px;
+    padding: 10px;
+    text-align: center;
+    margin-top: 90px;
+
+}
+
+
+
+#carouselExampleSlidesOnly {
+    padding-top: 16px;
+    padding-bottom: 20px;
+
+}
+
+#carouselExampleSlidesOnly1 {
+    padding-top: 16px;
+    padding-bottom: 20px;
+
+}
+
+
+
+.santos-inner {
+    box-shadow: 0px 3px 9px rgb(46, 46, 46);
+
+}
+
+.col-lg-6 img {
+    height: 610px;
+}
+
+.me {
+    padding: 7px;
+}
+
+.container-fluid-first {
+    padding: 20px;
+    margin-top: 15px;
+    background-color: rgb(125,
+            141,
+            130);
+    text-align: center;
+    box-shadow: 0px 14px 16px -5px rgb(69, 69, 69);
+}
+
+#journey {
+    padding: 80px;
+    margin-bottom: -70px;
+
+
+
+}
+
+.bio {
+    margin-top: -50px;
+    font-size: 30px;
+    font-weight: 900;
+    color: black;
+    opacity: 75%;
+}
+
+.tellmemore {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    padding-top: 30px;
+}
+
+.digitaljourney {
+    width: 100%;
+    height: 60vh;
+    padding-top: 35px;
+    box-shadow: 0px 40px 16px -30px rgb(69, 69, 69);
+
+}
+
+.outro {
+    text-align: center;
+    margin-top: -110px;
+}
+
+.text-center {
+    font-size: 15px;
+}
